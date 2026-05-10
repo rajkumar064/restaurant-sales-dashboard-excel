@@ -192,19 +192,5 @@ More importantly, it proved Excel is still dangerously powerful when used proper
 
 ---
 
-# 📬 Connect With Me
-
-### 💼 LinkedIn
-
-Add your LinkedIn profile here
-
-### 📧 Email
-
-Add your email here
-
----
-
-# ⭐ If You Like This Project
-
 Give this repository a star ⭐
 It helps the project reach more people and motivates me to build more data analytics projects. Excel deserves respect. Or at least less abuse.
