@@ -166,9 +166,7 @@ This project helped me improve:
 * Data Cleaning Skills
 * Excel Automation
 * Dashboard Design
-* Business Data Analysis
 * Data Visualization
-* DAX Basics
 * Power Query Transformation
 * Analytical Thinking
 
